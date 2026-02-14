@@ -1,77 +1,54 @@
 {
   "enable_development_mode": false,
-  "company_name": "Tyska Alexander Orthodontics",
-  "domain": "taortho.com",
-  "email": "info@mandtortho.com",
+  "company_name": "Impressions Orthodontics",
+  "domain": "impressionsorthodontics.com",
+  "email": "info@impressionsortho.ca",
   "phone": {
-    "number": "(716) 759-8323",
-    "href": "tel:+17167598323",
-    "aria": "7 1 6, 7 5 9, 8 3 2 3"
+    "number": "(403) 457-7700",
+    "href": "tel:+14034577700",
+    "aria": "4 0 3, 4 5 7, 7 7 0 0"
   },
   "location": [
     {
-      "title": "Clarence Office",
+      "title": "",
       "address": {
-        "street": "9650 Main Street",
+        "street": "",
         "suite": "",
-        "city_state": "Clarence, NY 14031",
+        "city_state": "Calgary, AB",
         "coordinates": {
-          "longitude": "-78.6314355",
-          "latitude": "42.9736638"
+          "longitude": "-114.194681",
+          "latitude": "51.034822"
         }
       },
       "phone": {
-        "number": "(716) 759-8323",
-        "href": "tel:+17167598323"
+        "number": "(403) 457-7700",
+        "href": "tel:+14034577700"
       },
-      "email": "info@mandtortho.com",
+      "email": "info@impressionsortho.ca",
       "hours": [
         {
           "day": "Monday",
-          "time": "8:30 am \t6:30 pm"
+          "time": "8am - 2pm (admin only)"
         },
         {
           "day": "Tuesday",
-          "time": "8:30 am \t6:30 pm"
+          "time": "8am - 4pm"
         },
         {
           "day": "Wednesday",
-          "time": "8:00 am \t11:30 am"
+          "time": "7am - 3pm"
         },
         {
           "day": "Thursday",
-          "time": "8:00 am \t6:00 pm"
+          "time": "7am - 3pm"
         },
         {
           "day": "Friday",
-          "time": "8:00 am \t11:30 am"
+          "time": "8am - 2pm (admin only)"
         }
       ],
       "directions_link": {
-        "href": "https://www.google.com/maps/search/?api=1&query=9650+Main+St+Clarence+NY+14031",
-        "label": "Get Directions"
-      },
-      "special_note": ""
-    },
-    {
-      "title": "Tonawanda Office",
-      "address": {
-        "street": "1077 Delaware Rd",
-        "suite": "",
-        "city_state": "Tonawanda, NY 14223",
-        "coordinates": {
-          "longitude": "-78.8730228",
-          "latitude": "42.9901241"
-        }
-      },
-      "phone": {
-        "number": "(716) 875-0405",
-        "href": "tel:+17168750405"
-      },
-      "email": "info@mandtortho.com",
-      "hours": [],
-      "directions_link": {
-        "href": "https://www.google.com/maps/search/?api=1&query=1077+Delaware+Rd+Tonawanda+NY+14223",
+        "href": "https://www.google.com/maps/place/Impressions+Orthodontics/@51.034822,-114.194681,17z",
         "label": "Get Directions"
       },
       "special_note": ""
@@ -94,28 +71,28 @@
     "content_alignment": "right",
     "links": [
       {
-        "icon": "tooth-two-v1",
-        "text": "9650 Main Street, Clarence, NY 14031",
-        "href": "https://www.google.com/maps/search/?api=1&query=9650+Main+St+Clarence+NY+14031",
-        "label": "View 9650 Main Street, Clarence, NY 14031 on google maps",
+        "icon": "tooth-two-v2",
+        "text": "Impressions Orthodontics — Calgary, AB",
+        "href": "https://www.google.com/maps/place/Impressions+Orthodontics/@51.034822,-114.194681,17z",
+        "label": "View Impressions Orthodontics on Google Maps",
         "new_window": true
       },
       {
         "icon": "phone",
-        "text": "(716) 759-8323",
-        "href": "tel:+17167598323",
-        "label": "Call 7 1 6. 7 5 9. 8 3 2 3.",
+        "text": "(403) 457-7700",
+        "href": "tel:+14034577700",
+        "label": "Call (403) 457-7700",
         "new_window": false
       }
     ],
     "announcement": {
       "icon": "tooth-two-v2",
-      "label": "",
-      "text": "",
-      "mobile_text": "",
+      "label": "COVID 19 update",
+      "text": "COVID-19 update — we continue enhanced safety and cleaning protocols to protect our patients and team.",
+      "mobile_text": "COVID-19 update",
       "modal": {
-        "title": "",
-        "text": ""
+        "title": "COVID-19 Update",
+        "text": "We follow current public health guidance and have enhanced infection control and cleaning procedures so you can feel confident visiting our office."
       }
     }
   },
@@ -129,7 +106,7 @@
           "label": "Schedule Consultation",
           "aria_label": "Schedule a consultation",
           "href": "",
-          "path": "/contact",
+          "path": "/schedule-exam",
           "hash": "#form",
           "external": false,
           "include_icon": true,
@@ -150,15 +127,19 @@
   "footer": {
     "social_media": [
       {
-        "href": "https://www.youtube.com/channel/UC1pgQhnbNQ7Mf0xFm_2KF-g",
-        "icon": "youtube"
+        "href": "https://www.facebook.com/impressionsorthodontics/",
+        "icon": "facebook"
+      },
+      {
+        "href": "https://www.instagram.com/p/DUqaSMXAM-y/",
+        "icon": "instagram"
       }
     ],
     "add_border": false
   },
   "enable_popup": false,
   "popup": {
-    "title": "",
+    "title": "Welcome to Impressions Orthodontics",
     "text": "",
     "image": {
       "src": "",
